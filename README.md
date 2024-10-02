@@ -1,1 +1,1 @@
-# homework1
+# Otomasyon kursu birinci ödevidir
