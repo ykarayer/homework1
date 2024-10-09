@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PersonnelFile>
+    <PersonalInformation>
+        <FullName>John Doe</FullName>
+        <DateOfBirth>15/05/1990</DateOfBirth>
+        <NationalIDNumber>12345678901</NationalIDNumber>
+        <PhoneNumber>+1234567890</PhoneNumber>
+        <EmailAddress>johndoe@example.com</EmailAddress>
+        <Address>123 Main St, Springfield, IL, USA</Address>
+    </PersonalInformation>
+    <Education>
+        <HighestEducation>
+            <Institution>Springfield University</Institution>
+            <Major>Computer Science</Major>
+            <GraduationYear>2012</GraduationYear>
+        </HighestEducation>
+        <AdditionalTraining>
+            <Training>Advanced Java Programming, Data Science Certification</Training>
+        </AdditionalTraining>
+    </Education>
+    <WorkExperience>
+        <Job>
+            <CompanyName>Tech Solutions Inc.</CompanyName>
+            <Position>Software Developer</Position>
+            <DurationOfEmployment>01/06/2012 - 30/06/2015</DurationOfEmployment>
+        </Job>
+        <Job>
+            <CompanyName>Innovatech Ltd.</CompanyName>
+            <Position>Senior Software Engineer</Position>
+            <DurationOfEmployment>01/07/2015 - Present</DurationOfEmployment>
+        </Job>
+    </WorkExperience>
+    <Skills>
+        <Skill>Java</Skill>
+        <Skill>Python</Skill>
+        <Skill>Machine Learning</Skill>
+    </Skills>
+    <References>
+        <Reference>
+            <FullName>Jane Smith</FullName>
+            <Position>Project Manager</Position>
+            <Company>Tech Solutions Inc.</Company>
+            <ContactInformation>+1234567891</ContactInformation>
+        </Reference>
+    </References>
+    <HealthInformation>
+        <Allergies>Peanuts</Allergies>
+        <RegularMedications>None</RegularMedications>
+    </HealthInformation>
+    <OtherInformation>
+        <StartDate>01/06/2012</StartDate>
+        <Department>Development</Department>
+        <Position>Senior Software Engineer</Position>
+    </OtherInformation>
+</PersonnelFile>
